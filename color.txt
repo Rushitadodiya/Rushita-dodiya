@@ -1,0 +1,31 @@
+1.color-pallate
+1.primary-color:-
+d782ba:sky magento
+e18ad4:violet
+eeb1d5:lavender pink
+efc7e5:thistle
+e0efda:honeydew
+
+2.primary-color:-
+
+198494 :blue(munsell)
+909ea7 :cadtet gray
+898dba :cool gray
+efc7e5 :thistle
+e0efda:honeydew
+
+3.primary-color:-
+
+9d7039 :golden brown
+a4b189 :sage
+cccddf :lavender(web)
+b57fa7 :african violet
+718769:reseda green
+
+4.primary-color:-
+
+439b98:dark cyan
+8d8e8a :battleship gray
+5f6191 :ultra violet
+e7dfe5 :avender blush
+4e534d:ebony
